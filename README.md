@@ -2,4 +2,6 @@
 
 ![Gustavo](Gustavo-Hernandez.png)
 
-I am a software engineer with a passion for making open source more accessible, creating technology to build a community. Some technologies that I enjoy working with include Python and Docker. My interest in the microservices ecosystem led me to meet wonderful people and communities.
+## Who I Am
+
+My name is Gustavo Hernandez. I am a systems engineer with a passion for making open source and technology more accessible, creating ideas to improve people's quality of life. I am a big fan of JavaScript and Node. Some technologies that I enjoy working with include Python and Docker. My interest in programming led me to meet wonderful people and new horizons.
