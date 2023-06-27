@@ -14,6 +14,8 @@ My name is Gustavo Hernandez. I'm a systems engineer with a passion for making o
 [![Python](https://img.shields.io/badge/Python-254F73?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Insomnia](https://img.shields.io/badge/Insomnia-9033FF?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=232F3E)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
 ## Learning
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
