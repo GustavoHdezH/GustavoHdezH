@@ -25,7 +25,13 @@ My name is Gustavo Hernandez. I'm a systems engineer with a passion for making o
 [![Email](https://img.shields.io/badge/ghhernandez@protonmail.com-my_personal_email_(slow_response)-339933?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ghhernandez@protonmail.com)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F52L6UB)
-  
+
+<p align="center">
+  <a href="https://github.com/GustavoHdezH/">
+    <img src="https://komarev.com/ghpvc/?username=GustavoHdezH&color=blue&style=flat)" />
+  </a>
+</p>
+
 <p align="center">
   Made with &hearts; in Mexico City
 </p>
