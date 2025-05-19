@@ -10,7 +10,7 @@ persons quality of life. I'm a big fan of JavaScript and Node. Some technologies
 Docker. My interest in programming led me to meet wonderful people and new horizons.
 
 * I'm currently working on [Tecnología en Cuentas por Cobrar](https://www.linkedin.com/company/tcxc/)
-* I'm currently learning **Kubernetes**
+* I'm currently learning **Rust**
 
 <h2>Connect with me:</h2>
 
