@@ -5,17 +5,13 @@
 </p>
 
 <h2 align="center">Who I am</h2>
-I'm a SysAdmin with a pasion for making open source and technology more accesible. I am constantly looking for innovativa ideas to automate and
-optimise processes, freeing up time and improving quality of life. I'm  a JavaScript and NOde.js enthusiast, and I'm confortable working with Python
+I'm a SysOps with a pasion for making open source and technology more accesible. I am constantly looking for innovativa ideas to automate and
+optimise processes, freeing up time and improving quality of life. I'm  a JavaScript and Node.js enthusiast, and I'm confortable working with Python
 and Docker. Programming is not only my profession, but also a path that  has connected me with exceptional people and opened me to a world of possibilities.
 
 * I'm currently working on [Tecnología en Cuentas por Cobrar](https://www.linkedin.com/company/tcxc/)
 * I'm currently learning **Rust**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoHdezH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoHdezH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 <h2>Skills & Experesise</h2>
 
@@ -92,6 +88,7 @@ and Docker. Programming is not only my profession, but also a path that  has con
     <td>Cloud Platform</td>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
     </td>
   </tr>
     <td>Version Control Hosting</td>
@@ -115,7 +112,11 @@ and Docker. Programming is not only my profession, but also a path that  has con
   </tr>
 </table>
 
+## Im currently working on 
 
+<p align="center">
+  <img height="100" src="tcxc-imagotipo-basic.png">
+</p>
 
 ---
 <h2 align="center">📫 Let's Connect!</h2>
